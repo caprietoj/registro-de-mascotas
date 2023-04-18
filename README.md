@@ -9,9 +9,9 @@ Aplicacion elaborada en Nodejs, que permite el registro de mascotas y luego de e
 
 DB_HOST=localhost <br>
 DB_USER=root <br>
-DB_PASS=your_password
-DB_NAME=veterinaria
-EMAIL_USER=your_email_address
+DB_PASS=your_password <br>
+DB_NAME=veterinaria <br>
+EMAIL_USER=your_email_address <br>
 EMAIL_PASS=your_email_password
     
 # Rutas de la api
