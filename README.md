@@ -7,11 +7,11 @@ Aplicacion elaborada en Nodejs, que permite el registro de mascotas y luego de e
 2. ejecute npm install
 3. cree un archivo .env con los siguientes datos:  
 
-        DB_HOST=localhost <br>
-        DB_USER=root <br>
-        DB_PASS=your_password <br>
-        DB_NAME=veterinaria <br>
-        EMAIL_USER=your_email_address <br>
+        DB_HOST=localhost
+        DB_USER=root
+        DB_PASS=your_password
+        DB_NAME=veterinaria
+        EMAIL_USER=your_email_address
         EMAIL_PASS=your_email_password
     
 # Rutas de la api
